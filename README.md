@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mishra07adi@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3jl3gIE](https://bit.ly/3jl3gIE)
+- 📄 Know about my experiences [Resume](https://bit.ly/3jl3gIE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
