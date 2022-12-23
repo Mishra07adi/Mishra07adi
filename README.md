@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mishra07adi" target="_blank"><img src="https://img.shields.io/twitter/follow/mishra07adi?logo=twitter&style=for-the-badge" alt="mishra07adi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://adityamishra-97429.web.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mishra07adi.netlify.app/)
 
 - 📫 How to reach me **mishra07adi@gmail.com**
 
